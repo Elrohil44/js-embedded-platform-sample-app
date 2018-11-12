@@ -70,7 +70,7 @@ isarray@~1.0.0:
 
 js-embedded-platform-cli@Elrohil44/js-embedded-platform-cli:
   version "1.1.1"
-  resolved "https://codeload.github.com/Elrohil44/js-embedded-platform-cli/tar.gz/36f0293e113929004c91e07e645fbe6ff79d41aa"
+  resolved "https://codeload.github.com/Elrohil44/js-embedded-platform-cli/tar.gz/92ae29ce91e79675c5e9fd529d2916362c2b2744"
   dependencies:
     lwm2m Elrohil44/node-lwm2m
     minimist "^1.2.0"
