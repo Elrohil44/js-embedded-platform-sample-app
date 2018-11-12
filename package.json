@@ -1,0 +1,13 @@
+{
+  "name": "js-embedded-platform-sample-app",
+  "version": "1.0.0",
+  "repository": "git@github.com:Elrohil44/js-embedded-platform-sample-app.git",
+  "author": "elrohil <wieslaw.stanek@spinney.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn install && lwm2m-server"
+  },
+  "dependencies": {
+    "js-embedded-platform-cli": "Elrohil44/js-embedded-platform-cli"
+  }
+}
